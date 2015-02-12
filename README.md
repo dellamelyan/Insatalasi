@@ -49,3 +49,9 @@
 
 * Tekan Enter.
 
+##SUBLIME TEXT 2
+
+* Untuk mengunduh Sublime Text 2, [klik di sini](http://www.sublimetext.com/2). Pilih `Windows 64 bit` (untuk PC 64-bit) atau `Windows` (untuk PC selain 64-bit) sesuai jenis PC anda. Tunggu sampai unduhan selesai.
+* Ikuti proses instalasi sampai selesai dengan meng-klik `Next >`.
+
+
