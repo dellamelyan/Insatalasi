@@ -44,6 +44,8 @@
 * Buat folder `src` di dalam folder `D:\apps\golang`.
 * Buka `Command Prompt` dan arahkan ke direktori `D:\apps\golang\src`.
 * Ketikkan kode berikut di `Command Prompt`
-    go get github.com/gorilla/mux
+
+        go get github.com/gorilla/mux
+
 * Tekan Enter.
 
